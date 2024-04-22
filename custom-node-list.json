@@ -7916,14 +7916,14 @@
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
         },
         {
-            "author": "zz",
-            "title": "Image doubleNode for ComfyUI",
-            "reference": "https://github.com/18734565051/ComfyUI-Image-Double",
+            "author": "beifeng",
+            "title": "imagedouble Node",
+            "reference": "https://civitai.com/models/143293/image2halftone-node-for-comfyui",
             "files": [
-                "https://github.com/18734565051/ComfyUI-Image-Double"
+                "https://civitai.com/api/download/models/158997"
             ],
-            "install_type": "git clone",
-            "description": "Image doubleNode for ComfyUI"
+            "install_type": "git-clone",
+            "description": "The image dimensions are doubled."
         }
     ]
 }
